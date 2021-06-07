@@ -67,7 +67,7 @@
     },
     "footer": {
         "type": "footer",
-        "logo": "/images/nftiiLogo512x403.png",
+        "logo": "/images/nftiiLogo256x202.png",
         "logo_alt": "nftii logo",
         "has_primary_nav": true,
         "primary_nav_title": "Company",
