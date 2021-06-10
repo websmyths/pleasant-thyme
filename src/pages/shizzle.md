@@ -13,7 +13,7 @@ sections:
       generation of Top-Level Domains  Da rizzle dizzle fo yo bizzle. 
 
   - type: grid_section
-    title: 'You asked, we answered!'
+    title: Why Handshake Domains?
     grid_items:
       - type: grid_item
         title: Lorem ipsum dolor sit amet consectetur?
