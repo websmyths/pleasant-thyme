@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: .shizzle/ Domains
 sections:
   - type: hero_section
     title: Get yourname.shizzle/
