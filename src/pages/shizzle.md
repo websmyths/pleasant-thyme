@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Get yourname.shizzle/
     subtitle: Buy .shizzle Second-Level Domains
-    align: left
+    align: center
     padding_top: large
     padding_bottom: small
     content: >
