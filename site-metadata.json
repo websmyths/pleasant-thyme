@@ -23,7 +23,7 @@
             {
                 "type": "action",
                 "label": ".shizzle/",
-                "url": "/sh",
+                "url": "/shizzle",
                 "style": "link"
             },
             {
