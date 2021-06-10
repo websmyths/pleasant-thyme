@@ -3,7 +3,7 @@ title: Pricing
 sections:
   - type: hero_section
     title: Get yourname.shizzle/
-    subtitle: Optional hero section subtitle
+    subtitle: Buy .shizzle Second-Level Domains
     align: center
     padding_top: large
     padding_bottom: small
