@@ -15,7 +15,7 @@
             {
                 "type": "action",
                 "label": "Emoji Domains",
-                "url": "/features",
+                "url": "/emoji-domains",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-right"
