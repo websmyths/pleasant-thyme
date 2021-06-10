@@ -17,12 +17,7 @@ sections:
     grid_items:
       - type: grid_item
         title: Handshake domains can be anything. Even emojis.
-        content: >
-          You are not limited to the Top-Level Domains available from ICANN,
-          e.g., .com, .net, .org, and more. There are roughly 1600 TDLs
-          available from ICANN at the time of this writing. A Handshake TLD can
-          be almost anything you can imagine, including emojis and international
-          symbols, such as Chinese, Japanese, Korean, and Arabic characters. 
+        content: "You are not limited to the Top-Level Domains like .com, .net, .org, from ICANN. There are roughly 1600 TDLs available from ICANN at the time of this writing. A Handshake TLD can be almost anything you can imagine, including emojis and international symbols, such as Chinese, Japanese, Korean, and Arabic characters. Your domain name could be yourname.johnson, yourname.\U0001F497/, or yourname./余.\n"
       - type: grid_item
         title: Handshake domains are secured by the blockchain.
         content: >
