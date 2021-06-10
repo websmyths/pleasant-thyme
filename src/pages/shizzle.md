@@ -7,11 +7,10 @@ sections:
     align: center
     padding_top: large
     padding_bottom: small
-    content: >+
+    content: >
       Make your brand stand out from anything else on the web with a .shizzle/
       domain name from [Gateway.io](https://gateway.io/domains/search). The next
-      generation of Top-Level Domains  Da rizzle dizzle fo yo bizzle. 
-
+      generation of Top-Level Domains  Da rizzle dizzle fo yo bizzle.
   - type: grid_section
     title: Why Handshake Domains?
     grid_items:
