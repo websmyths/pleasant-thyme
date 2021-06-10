@@ -54,6 +54,43 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: secondary
+  - title: Get your .shizzle domain today!
+    content: >
+      ##### Or, get your own TLD from Namebase.io
+
+
+      ![](/\_static/app-assets/HandshakeAndNamebaseLogos.jpeg)<https://www.namebase.io/>
+    actions:
+      - label: Gateway.io
+        url: 'https://gateway.io/domains/search'
+        style: primary
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
+      - label: Namebase.io
+        url: 'https://www.namebase.io/'
+        style: primary
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
+    actions_position: bottom
+    actions_width: fourty
+    align: left
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: cta_section
   - type: grid_section
     grid_items:
       - type: grid_item
@@ -98,43 +135,6 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-  - title: Get your .shizzle domain today!
-    content: >
-      ##### Or, get your own TLD from Namebase.io
-
-
-      ![](/\_static/app-assets/HandshakeAndNamebaseLogos.jpeg)<https://www.namebase.io/>
-    actions:
-      - label: Gateway.io
-        url: 'https://gateway.io/domains/search'
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
-      - label: Namebase.io
-        url: 'https://www.namebase.io/'
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
-    actions_position: bottom
-    actions_width: fourty
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: cta_section
 seo:
   type: stackbit_page_meta
   title: Pricing
