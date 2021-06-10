@@ -82,9 +82,7 @@ sections:
         content: |
           ***
 
-          ### $50
-
-          per year, billed yearly
+          ### $50 per year, billed yearly.
         content_align: left
         actions:
           - type: action
