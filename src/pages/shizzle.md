@@ -137,7 +137,7 @@ sections:
     background_color: none
   - title: Get your .shizzle domain today!
     content: |
-      ## Get your own TLD from Namebase.io
+      ##### Or, get your own TLD from Namebase.io
     actions:
       - label: Gateway.io
         url: 'https://gateway.io/domains/search'
