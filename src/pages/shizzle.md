@@ -136,10 +136,11 @@ sections:
     has_border: false
     background_color: none
   - title: Get your .shizzle domain today!
-    content: |
+    content: >
       ##### Or, get your own TLD from Namebase.io
 
-      ![](/\_static/app-assets/HandshakeAndNamebaseLogos.jpeg)
+
+      ![](/\_static/app-assets/HandshakeAndNamebaseLogos.jpeg)<https://www.namebase.io/>
     actions:
       - label: Gateway.io
         url: 'https://gateway.io/domains/search'
