@@ -26,7 +26,7 @@ sections:
           peer on the blockchain. No certificate authority is needed to insure
           that your site is a trusted site.
       - type: grid_item
-        title: Viverra nam libero justo laoreet sit?
+        title: Handshake domain names are NFTs.
         content: >-
           In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
           posuere. Bibendum neque egestas congue quisque egestas. Mauris sit
