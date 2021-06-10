@@ -136,17 +136,8 @@ sections:
     has_border: false
     background_color: none
   - title: Get your .shizzle domain today!
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: |
+      ## Get your own TLD from Namebase.io
     actions:
       - label: Gateway.io
         url: 'https://gateway.io/domains/search'
