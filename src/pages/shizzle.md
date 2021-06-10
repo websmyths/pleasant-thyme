@@ -148,7 +148,7 @@ sections:
 
       - dolor sit amet
     actions:
-      - label: lorem-ipsum
+      - label: Gateway.io
         url: '#'
         style: link
         has_icon: false
