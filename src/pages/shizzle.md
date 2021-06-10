@@ -75,7 +75,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - type: grid_item
-        title: Premium
+        title: Buy additional years
         subtitle: Optional subtitle
         title_align: left
         content: |-
