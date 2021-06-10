@@ -17,7 +17,8 @@
                 "label": "Features",
                 "url": "/features",
                 "style": "link",
-                "has_icon": false
+                "has_icon": false,
+                "icon": "youtube"
             },
             {
                 "type": "action",
