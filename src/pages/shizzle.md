@@ -149,7 +149,7 @@ sections:
       - dolor sit amet
     actions:
       - label: Gateway.io
-        url: 'https:/'
+        url: 'https://gateway.io/domains/search'
         style: link
         has_icon: false
         icon: arrow-left
