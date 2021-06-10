@@ -3,7 +3,7 @@ title: About
 sections:
   - type: hero_section
     title: Emoji Domains
-    subtitle: About Page Demo
+    subtitle: All Up in my Feels About Emoji Domains
     align: center
     background_color: secondary
   - type: features_section
