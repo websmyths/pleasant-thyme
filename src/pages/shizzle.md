@@ -16,7 +16,7 @@ sections:
     title: Why Handshake Domains?
     grid_items:
       - type: grid_item
-        title: Lorem ipsum dolor sit amet consectetur?
+        title: Handshake domains can be anything. Even emojis.
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
