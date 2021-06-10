@@ -27,10 +27,9 @@ sections:
         title: Handshake domains are secured by the blockchain.
         content: >
           Handshake domains are registered on the handshake blockchain. They are
-          decentralized and trustless and secured by public and private
-          encryption keys that can be validated on the blockchain. No
-          certificate authority is needed to insure that your site is a trusted
-          site. 
+          decentralized and trustless and secured cryptographically by every
+          peer on the blockchain. No certificate authority is needed to insure
+          that your site is a trusted site.
       - type: grid_item
         title: Viverra nam libero justo laoreet sit?
         content: >-
