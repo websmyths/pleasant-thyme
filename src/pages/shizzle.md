@@ -103,26 +103,6 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - type: grid_item
-        title: Business
-        subtitle: Optional subtitle
-        title_align: left
-        content: |-
-          ---
-
-          ### $39
-
-          per month, billed yearly
-
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
-          * Feugiat porta tortor
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: full-width
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
