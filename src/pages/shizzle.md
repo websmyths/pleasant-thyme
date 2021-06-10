@@ -25,10 +25,12 @@ sections:
           symbols, such as Chinese, Japanese, Korean, and Arabic characters. 
       - type: grid_item
         title: Handshake domains are secured by the blockchain.
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Handshake domains are registered on the handshake blockchain. They are
+          decentralized and trustless and secured by public and private
+          encryption keys that can be validated on the blockchain. No
+          certificate authority is needed to insure that your site is a trusted
+          site. 
       - type: grid_item
         title: Viverra nam libero justo laoreet sit?
         content: >-
