@@ -138,6 +138,8 @@ sections:
   - title: Get your .shizzle domain today!
     content: |
       ##### Or, get your own TLD from Namebase.io
+
+      ![](/\_static/app-assets/HandshakeAndNamebaseLogos.jpeg)
     actions:
       - label: Gateway.io
         url: 'https://gateway.io/domains/search'
