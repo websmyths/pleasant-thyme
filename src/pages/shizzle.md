@@ -24,7 +24,7 @@ sections:
           be almost anything you can imagine, including emojis and international
           symbols, such as Chinese, Japanese, Korean, and Arabic characters. 
       - type: grid_item
-        title: Sagittis vitae et leo duis ut diam?
+        title: Handshake domains are secured by the blockchain.
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
