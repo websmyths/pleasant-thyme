@@ -150,7 +150,7 @@ sections:
     actions:
       - label: Gateway.io
         url: 'https://gateway.io/domains/search'
-        style: link
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
