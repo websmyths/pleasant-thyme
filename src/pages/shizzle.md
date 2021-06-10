@@ -70,7 +70,7 @@ sections:
         actions:
           - type: action
             label: Gateway.io
-            url: /features
+            url: 'https://gateway.io/domains/search'
             style: primary
         actions_align: left
         actions_width: full-width
