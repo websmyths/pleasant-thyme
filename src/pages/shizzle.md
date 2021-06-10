@@ -57,7 +57,7 @@ sections:
   - type: grid_section
     grid_items:
       - type: grid_item
-        title: Personal
+        title: Buy now for 1 year
         subtitle: Optional subtitle
         title_align: left
         content: |-
