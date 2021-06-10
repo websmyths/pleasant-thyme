@@ -69,7 +69,7 @@ sections:
         content_align: left
         actions:
           - type: action
-            label: Start with Personal
+            label: Gateway.io
             url: /features
             style: primary
         actions_align: left
