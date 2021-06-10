@@ -60,16 +60,7 @@ sections:
 
 
       ![](/\_static/app-assets/HandshakeAndNamebaseLogos.jpeg)<https://www.namebase.io/>
-    actions:
-      - label: Namebase.io
-        url: 'https://www.namebase.io/'
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
+    actions: []
     actions_position: bottom
     actions_width: fourty
     align: left
