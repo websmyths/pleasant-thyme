@@ -135,7 +135,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-  - title: lorem-ipsum
+  - title: Get your .shizzle domain today!
     content: >-
       ## Lorem ipsum
 
