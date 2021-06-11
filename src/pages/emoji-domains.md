@@ -7,7 +7,7 @@ sections:
     align: center
     background_color: secondary
     background_image: /images/pexels-roman-odintsov-6898859.jpg
-    background_image_position: left top
+    background_image_position: left bottom
     background_image_size: cover
     background_image_opacity: 60
   - type: features_section
