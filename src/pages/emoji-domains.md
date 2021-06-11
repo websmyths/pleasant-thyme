@@ -9,7 +9,7 @@ sections:
     background_image: /images/pexels-ann-h-7313447.jpg
     background_image_position: center center
     background_image_size: cover
-    background_image_opacity: 0
+    background_image_opacity: 50
   - type: features_section
     features:
       - type: feature
