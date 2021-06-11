@@ -1,5 +1,5 @@
 ---
-title: About
+title: Emoji Domains
 sections:
   - type: hero_section
     title: Emoji Domains
