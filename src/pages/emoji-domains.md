@@ -7,7 +7,7 @@ sections:
     align: center
     background_color: primary
     background_image: /images/pexels-ann-h-7313382.jpg
-    background_image_position: center center
+    background_image_position: left bottom
     background_image_size: cover
     background_image_opacity: 75
     padding_bottom: large
