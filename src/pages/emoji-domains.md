@@ -10,7 +10,7 @@ sections:
     background_image_position: left center
     background_image_size: cover
     background_image_opacity: 0
-    padding_bottom: medium
+    padding_bottom: large
     padding_top: medium
   - type: features_section
     features:
