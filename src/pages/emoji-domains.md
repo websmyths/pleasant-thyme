@@ -11,7 +11,7 @@ sections:
     background_image_size: cover
     background_image_opacity: 75
     padding_bottom: large
-    padding_top: large
+    padding_top: none
   - type: features_section
     features:
       - type: feature
