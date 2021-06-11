@@ -9,7 +9,7 @@ sections:
     background_image: /images/elite-strawberry.jpg
     background_image_position: center center
     background_image_size: cover
-    background_image_opacity: 60
+    background_image_opacity: 0
   - type: features_section
     features:
       - type: feature
