@@ -8,7 +8,7 @@ sections:
     background_color: secondary
     background_image: /images/pexels-ann-h-7313447.jpg
     background_image_position: right bottom
-    background_image_size: cover
+    background_image_size: auto
     background_image_opacity: 0
   - type: features_section
     features:
