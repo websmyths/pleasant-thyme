@@ -5,7 +5,7 @@ sections:
     title: Emoji Domains
     subtitle: All Up in my Feels About Emoji Domains
     align: center
-    background_color: secondary
+    background_color: primary
     background_image: /images/pexels-ann-h-7313447.jpg
     background_image_position: center center
     background_image_size: cover
