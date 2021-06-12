@@ -2,7 +2,7 @@
 title: Emoji Domains
 sections:
   - type: hero_section
-    title: "\U0001F30E Emoji Domains"
+    title: "\U0001F30E \U0001F497 Emoji Domains"
     subtitle: All Up in my Feels About Emoji Domains
     align: center
     background_color: primary
