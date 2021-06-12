@@ -17,7 +17,7 @@ sections:
       - type: feature
         title: Section Title One
         subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
-        content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh fringilla, fringilla.\n\nEmoji domains \U0001F680\U0001F315.\n"
+        content: "Emojis are more expressive than text. They are visual. More economical, you can say more in less space than with text. They are international. No matter what language their audience is, they are understood universally. And as domain names they are still relatively new and therefore unique. You will be among the first to own an emoji domain name. If you buy a Handshake TLD, you own it forever. \n\nEmoji domains \U0001F680\U0001F315.\n"
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
