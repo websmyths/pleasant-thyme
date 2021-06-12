@@ -17,7 +17,7 @@ sections:
       - type: feature
         title: Section Title One
         subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
-        content: "Emojis are more expressive than text. They are visual. More economical, you can say more in less space than with text. They are international. No matter what language their audience is, they are understood universally. And as domain names they are still relatively new and therefore unique. You will be among the first to own an emoji domain name. If you buy a Handshake TLD, you own it forever. \n\nEmoji domains \U0001F680\U0001F315.\n"
+        content: "Emojis are more expressive than text. They are visual. More economical, you can say more in less space than with text. They are international. No matter what language their audience is, they are understood universally. And as domain names they are still relatively new and therefore unique. You will be among the first to own an emoji domain name. If you buy a Handshake TLD, you own it forever.\n\nDisclaimer: As with anything new, especially in technology, there are caveats. Understand what you are getting. Explain alts. Controlled by OS so some don't show up depending on OS. Some don't show in address bar depending on browser. Explain Punycode. Brief history. Use redirects to fall back to text domain name. \n\nEmoji keyboard. Shortcut for Mac and Windows. \n\nHow to get one. ENS, Y.at, Handshake TLDs. Advantages, disadvantages of each. \n\nEmoji domains \U0001F680\U0001F315.\n"
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
