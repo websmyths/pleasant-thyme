@@ -24,6 +24,12 @@ sections:
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
+        video_embed_html: >-
+          <iframe src="https://giphy.com/embed/QMjvHNvwiQjgCoFAQY" width="480"
+          height="480" frameBorder="0" class="giphy-embed"
+          allowFullScreen></iframe><p><a
+          href="https://giphy.com/gifs/IntoAction-mental-health-mulanfu-action-day-QMjvHNvwiQjgCoFAQY">via
+          GIPHY</a></p>
       - type: feature
         title: Section Title Two
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
