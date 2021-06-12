@@ -44,8 +44,17 @@ seo:
 template: post
 tags: []
 ---
+Emojis are more expressive than text. They are visual. More economical, you can say more in less space than with text. They are international. No matter what language their audience is, they are understood universally. And as domain names they are still relatively new and therefore unique. You will be among the first to own an emoji domain name. If you buy a Handshake TLD, you own it forever.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti magnitudine obruebantur. Duo Reges: constructio interrete. An hoc usque quaque, aliter in vita? Gracchum patrem non beatiorem fuisse quam fillum, cum alter stabilire rem publicam studuerit, alter evertere. Quo plebiscito decreta a senatu est consuli quaestio Cn. Illud non continuo, ut aeque incontentae. Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti videre, nihil tranquilli potest. Itaque hoc frequenter dici solet a vobis, non intellegere nos, quam dicat Epicurus voluptatem. Sin kakan malitiam dixisses, ad aliud nos unum certum vitium consuetudo Latina traduceret.
+Disclaimer: As with anything new, especially in technology, there are caveats. Understand what you are getting. Explain alts. Controlled by OS so some don't show up depending on OS. Some don't show in address bar depending on browser. Explain Punycode. Brief history. Use redirects to fall back to text domain name.
+
+Emoji keyboard. Shortcut for Mac and Windows.
+
+How to get one. ENS, Y.at, Handshake TLDs. Advantages, disadvantages of each.
+
+Domains as an investment. Most expensive domain ever, cars.com. May be the next boom like NFT art. A hedge against falling crypto prices. Long term investment.
+
+Emoji domains 🚀🌕.
 
 ## Sed Ille, UT Dixi, Vitiose
 
