@@ -1,7 +1,7 @@
 ---
 title: "\U0001F30E \U0001F497 Emoji Domains"
 subtitle: All Up in my Feels About Emoji Domains
-date: '2020-04-16'
+date: '2021-06-16'
 author: src/data/team/dianne-ameter.yaml
 categories:
   - src/data/categories/tutorials.yaml
