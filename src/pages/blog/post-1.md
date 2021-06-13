@@ -64,7 +64,7 @@ What are characteristics of a good domain name? Do emoji domains meet those stan
 
 *   Is it easy to type?
 
-*   Does it inspire trust?
+*   Does it inspire trust? Credible?
 
 Over 3000 registered emojis in unicode standard.
 
