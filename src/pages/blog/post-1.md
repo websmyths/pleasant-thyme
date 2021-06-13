@@ -66,6 +66,8 @@ What are characteristics of a good domain name? Do emoji domains meet those stan
 
 *   Does it inspire trust? Credible?
 
+*   Competition reorders emojis
+
 Over 3000 registered emojis in unicode standard.
 
 https://xn--i-7iq.ws/
