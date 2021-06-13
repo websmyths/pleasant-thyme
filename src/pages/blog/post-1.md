@@ -58,7 +58,9 @@ What are characteristics of a good domain name? Do emoji domains meet those stan
 
 *   Memorable
 
-*   Distinguishable
+*   Distinguishable - too many similar emojis and variations.
+
+*   Short
 
 *   Is it easy to type?
 
@@ -69,8 +71,6 @@ Over 3000 registered emojis in unicode standard.
 https://xn--i-7iq.ws/
 
 Create Twitter thread on topic with link to this post.
-
-
 
 Emoji domains 🚀🌕.
 
