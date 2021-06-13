@@ -54,6 +54,24 @@ How to get one. ENS, Y.at, Handshake TLDs. Advantages, disadvantages of each.
 
 Domains as an investment. Most expensive domain ever, cars.com. May be the next boom like NFT art. A hedge against falling crypto prices. Long term investment.
 
+What are characteristics of a good domain name? Do emoji domains meet those standards.
+
+*   Memorable
+
+*   Distinguishable
+
+*   Is it easy to type?
+
+*   Does it inspire trust?
+
+Over 3000 registered emojis in unicode standard.
+
+https://xn--i-7iq.ws/
+
+Create Twitter thread on topic with link to this post.
+
+
+
 Emoji domains 🚀🌕.
 
 ## Sed Ille, UT Dixi, Vitiose
